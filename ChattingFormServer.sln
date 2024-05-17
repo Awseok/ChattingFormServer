@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tcpSocketServer", "udpSocketTest\tcpSocketServer.csproj", "{DE610B3B-6193-4E2B-9F76-3A59B65E177B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE610B3B-6193-4E2B-9F76-3A59B65E177B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE610B3B-6193-4E2B-9F76-3A59B65E177B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE610B3B-6193-4E2B-9F76-3A59B65E177B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE610B3B-6193-4E2B-9F76-3A59B65E177B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F24D044-E90D-4593-B203-ED049D68D673}
+	EndGlobalSection
+EndGlobal

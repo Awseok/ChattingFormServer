@@ -1,0 +1,5 @@
+C:\Users\HYJ\source\repos\udpSocketTest\udpSocketTest\obj\Debug\udpSocketTest.csproj.AssemblyReference.cache
+C:\Users\HYJ\source\repos\udpSocketTest\udpSocketTest\obj\Debug\udpSocketTest.Form1.resources
+C:\Users\HYJ\source\repos\udpSocketTest\udpSocketTest\obj\Debug\udpSocketTest.Properties.Resources.resources
+C:\Users\HYJ\source\repos\udpSocketTest\udpSocketTest\obj\Debug\udpSocketTest.csproj.GenerateResource.cache
+C:\Users\HYJ\source\repos\udpSocketTest\udpSocketTest\obj\Debug\udpSocketTest.csproj.CoreCompileInputs.cache
